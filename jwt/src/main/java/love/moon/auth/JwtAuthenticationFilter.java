@@ -1,6 +1,6 @@
-package com.sayo.authlogin.auth;
+package love.moon.auth;
 
-import com.sayo.authlogin.service.UserService;
+import love.moon.service.UserService;
 import io.jsonwebtoken.Jwts;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

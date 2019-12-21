@@ -1,4 +1,4 @@
-package com.sayo.authlogin.domain;
+package love.moon.domain;
 
 import javax.persistence.*;
 import java.util.List;

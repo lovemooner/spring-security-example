@@ -1,6 +1,6 @@
-package com.sayo.authlogin.config;
+package love.moon.config;
 
-import com.sayo.authlogin.auth.JwtTokenProvider;
+import love.moon.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.web.authentication.SavedRequestAwareAuthenticationSuccessHandler;

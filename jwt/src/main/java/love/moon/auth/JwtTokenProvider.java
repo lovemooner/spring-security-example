@@ -1,4 +1,4 @@
-package com.sayo.authlogin.auth;
+package love.moon.auth;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

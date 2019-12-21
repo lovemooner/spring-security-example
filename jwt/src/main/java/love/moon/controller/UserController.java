@@ -1,7 +1,7 @@
-package com.sayo.authlogin.controller;
+package love.moon.controller;
 
-import com.sayo.authlogin.service.UserService;
-import com.sayo.authlogin.valueobject.UserView;
+import love.moon.service.UserService;
+import love.moon.valueobject.UserView;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.sayo.authlogin;
+package love.moon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

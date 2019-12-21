@@ -1,4 +1,4 @@
-package com.sayo.authlogin.auth;
+package love.moon.auth;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;

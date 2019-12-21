@@ -1,6 +1,6 @@
-package com.sayo.authlogin.repository;
+package love.moon.repository;
 
-import com.sayo.authlogin.domain.User;
+import love.moon.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

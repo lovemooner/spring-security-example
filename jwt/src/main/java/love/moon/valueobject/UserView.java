@@ -1,4 +1,4 @@
-package com.sayo.authlogin.valueobject;
+package love.moon.valueobject;
 
 import lombok.Data;
 

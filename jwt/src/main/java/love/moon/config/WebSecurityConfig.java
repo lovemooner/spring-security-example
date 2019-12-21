@@ -1,7 +1,7 @@
-package com.sayo.authlogin.config;
+package love.moon.config;
 
-import com.sayo.authlogin.auth.JwtAuthenticationFilter;
-import com.sayo.authlogin.service.DatabaseUserDetailService;
+import love.moon.auth.JwtAuthenticationFilter;
+import love.moon.service.DatabaseUserDetailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
