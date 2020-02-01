@@ -14,13 +14,13 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 @EnableWebSecurity
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter{
 
-    @Autowired
+
     private UserService userService;
 
-
-//    public void setUserService(UserService userService){
-//        this.userService = userService;
-//    }
+    @Autowired
+    public void setUserService(UserService userService){
+        this.userService = userService;
+    }
 
     /**
      * 匹配 "/register" 路径，不需要权限即可访问
