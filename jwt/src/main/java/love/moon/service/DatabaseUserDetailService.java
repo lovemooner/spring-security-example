@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * This service will reload user information from database.
+ * @author
  */
 @Service("databaseUserDetailService")
 public class DatabaseUserDetailService implements UserDetailsService {

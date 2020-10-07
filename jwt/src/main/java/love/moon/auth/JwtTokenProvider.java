@@ -11,6 +11,9 @@ import org.springframework.stereotype.Component;
 
 import java.util.Date;
 
+/**
+ * @author
+ */
 @Component
 public class JwtTokenProvider {
 

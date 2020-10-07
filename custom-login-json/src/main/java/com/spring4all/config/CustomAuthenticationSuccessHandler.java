@@ -14,6 +14,7 @@ import java.nio.charset.StandardCharsets;
 
 /**
  * 认证成功处理器
+ * @author
  */
 public class CustomAuthenticationSuccessHandler implements AuthenticationSuccessHandler {
 
